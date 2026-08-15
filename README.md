@@ -87,8 +87,13 @@ Setup guides and how-tos → **[kvrnl.io/docs/immersion](https://kvrnl.io/docs/i
 
 ## Support
 
-- 🐛 **Found a bug?** [Open an issue](https://github.com/KVRNL/immersion/issues/new/choose)
-- 💬 **Question?** [kvrnl.io/contact](https://kvrnl.io/contact/)
+> [!IMPORTANT]
+> **We don't use GitHub Issues.** Report bugs from inside the app — it's the
+> fastest route to us and it attaches the details we need automatically.
+
+- 🐛 **Found a bug?** Use **Report a Problem** inside Immersion
+- 💬 **Chat with us** → **[Discord](https://discord.gg/Ub4SdAuhu)**
+- ✉️ **Anything else** → **[kvrnl.io/contact](https://kvrnl.io/contact/)**
 - ❓ **FAQ** → [kvrnl.io/faq](https://kvrnl.io/faq/)
 
 ## License
@@ -104,7 +109,7 @@ Immersion. **The application source code is not published.** See
 <div align="center">
 <br>
 
-**[kvrnl.io](https://kvrnl.io)** &nbsp;·&nbsp; **[All products](https://kvrnl.io/products/)** &nbsp;·&nbsp; **[Changelog](https://kvrnl.io/changelog/)** &nbsp;·&nbsp; **[Contact](https://kvrnl.io/contact/)**
+**[kvrnl.io](https://kvrnl.io)** &nbsp;·&nbsp; **[All products](https://kvrnl.io/products/)** &nbsp;·&nbsp; **[Changelog](https://kvrnl.io/changelog/)** &nbsp;·&nbsp; **[Discord](https://discord.gg/Ub4SdAuhu)** &nbsp;·&nbsp; **[Contact](https://kvrnl.io/contact/)**
 
 <sub>© 2026 <b>KVRNL</b> — an AI-powered software studio shipping free desktop tools.</sub>
 
