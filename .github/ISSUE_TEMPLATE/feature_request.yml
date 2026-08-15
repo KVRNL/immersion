@@ -1,0 +1,29 @@
+name: Feature request
+description: Suggest an idea for Immersion
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Got an idea for Immersion? Tell us about it.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's the problem?
+      description: What are you trying to do that Immersion makes hard right now?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: What would you like it to do?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Anything else?
+      description: Other approaches you've considered, examples from other apps, mockups.
+    validations:
+      required: false

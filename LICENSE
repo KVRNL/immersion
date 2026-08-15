@@ -1,26 +1,249 @@
-KVRNL Software License (Free to Use - Proprietary)
+KVRNL SOFTWARE LICENSE AGREEMENT
+Free-to-Use Proprietary Software
 
-Copyright (c) 2026 KVRNL. All rights reserved.
+Product:   Immersion
+Publisher: KVRNL (https://kvrnl.io)
+Copyright (c) 2026 KVRNL. All Rights Reserved.
 
-This software ("the Software") is proprietary, closed-source software provided
-free of charge by KVRNL (https://kvrnl.io).
+================================================================================
+NOTICE: THIS IS NOT AN OPEN-SOURCE LICENSE
+================================================================================
 
-GRANT. You are granted a personal, non-exclusive, non-transferable, revocable
-license to download, install, and use the Software on machines you own or
-control, activated with a valid license key issued through your free KVRNL
-account at https://kvrnl.io.
+Immersion ("the Software") is proprietary, closed-source software distributed
+free of charge. This Agreement is NOT an OSI-approved open-source license, and it
+is NOT the GNU GPL, MIT, Apache, BSD, or any other open-source or copyleft
+license. No rights to the Software's source code are granted, expressly or by
+implication.
 
-RESTRICTIONS. You may not: (a) copy, redistribute, sell, rent, lease, or
-sublicense the Software; (b) reverse engineer, decompile, or disassemble the
-Software, or attempt to derive its source code, except where such restriction
-is prohibited by applicable law; (c) remove or circumvent any licensing,
-activation, or proprietary-notice mechanism; or (d) use the Software unlawfully.
+By downloading, installing, activating, or using the Software, you agree to be
+bound by this Agreement. If you do not agree, do not install or use the Software.
 
-NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY LAW, KVRNL SHALL NOT BE
-LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF, OR INABILITY TO USE, THE SOFTWARE.
 
-KVRNL may revoke this license or any license key at any time. This is NOT an
-open-source license; no source-code rights are granted.
+0. LEGAL BASIS OF THIS LICENSE
 
-(c) 2026 KVRNL - https://kvrnl.io
+   Copyright in the Software subsists automatically upon its creation and
+   fixation in a tangible medium under 17 U.S.C. Sec. 102(a), and is recognised
+   internationally without formality under Article 5(2) of the Berne Convention
+   for the Protection of Literary and Artistic Works. No registration,
+   publication, or copyright notice is required for that protection to exist,
+   and none is waived by the distribution of the Software free of charge.
+
+   KVRNL retains the exclusive rights enumerated at 17 U.S.C. Sec. 106,
+   including the exclusive rights of reproduction, preparation of derivative
+   works, distribution, and public display. This Agreement grants you a narrow
+   permission to use the Software and grants nothing further. Any use outside
+   the scope of Section 2 is copyright infringement.
+
+   The licensing, activation, and key-validation mechanisms in the Software are
+   technological measures that effectively control access to a copyrighted work
+   within the meaning of 17 U.S.C. Sec. 1201(a). Circumventing, disabling,
+   emulating, patching, or trafficking in a means of circumventing those
+   measures is separately unlawful under Sec. 1201, independent of any
+   infringement of copyright.
+
+   Any archival or adaptation privilege that would otherwise arise under
+   17 U.S.C. Sec. 117 is limited to what that section actually permits and does
+   not authorise redistribution, modification for distribution, or
+   circumvention of the licensing mechanism.
+
+
+1. DEFINITIONS
+
+   "Software" means the Immersion application published by KVRNL, including
+   its executables, installers, bundled assets, updates, and documentation.
+
+   "License Key" means the unique activation code issued to you at no cost
+   through your KVRNL account at https://kvrnl.io.
+
+   "Device" means a single physical or virtual computer identified by the
+   hardware identifier ("HWID") recorded when a License Key is first activated.
+
+   "You" means the individual or entity accepting this Agreement.
+
+
+2. GRANT OF LICENSE
+
+   Subject to your continuous compliance with this Agreement, KVRNL grants you a
+   personal, limited, non-exclusive, non-transferable, non-sublicensable,
+   revocable license to:
+
+   (a) download and install the Software on a Device you own or control; and
+   (b) run the Software on that Device for personal or internal business use,
+       activated with a valid License Key.
+
+   The Software is provided free of charge. No fee is or will be required for
+   the license granted in this Section.
+
+
+3. LICENSE KEYS AND DEVICE ACTIVATION
+
+   (a) License Keys are issued free of charge from a verified KVRNL account.
+   (b) A License Key binds to the first Device on which it is activated. Use of
+       that key on a different Device will be refused.
+   (b) You may move the Software to another Device by releasing the key from its
+       current Device using the "Release device" control on your KVRNL account
+       page, then activating it on the new Device.
+   (d) The Software contacts KVRNL over HTTPS to validate your License Key.
+       Section 8 describes exactly what is transmitted.
+   (e) License Keys are issued to you personally. Sharing, selling, publishing,
+       or transferring a License Key is prohibited and voids it.
+
+
+4. RESTRICTIONS
+
+   You may NOT:
+
+   (a) sell, rent, lease, lend, sublicense, distribute, publish, mirror,
+       repackage, or otherwise make the Software available to any third party,
+       whether or not for a fee;
+   (b) reverse engineer, decompile, disassemble, decrypt, extract, or otherwise
+       attempt to derive the source code, algorithms, or internal structure of
+       the Software, except and only to the precise extent that this restriction
+       is unenforceable under applicable mandatory law;
+   (c) modify, adapt, translate, or create derivative works of the Software;
+   (d) circumvent, disable, remove, patch, emulate, or interfere with any
+       licensing, activation, key-validation, update, or anti-tamper mechanism,
+       or distribute any tool or instructions for doing so (see Section 0
+       regarding 17 U.S.C. Sec. 1201);
+   (e) remove, obscure, or alter any copyright, trademark, or proprietary notice
+       in or displayed by the Software;
+   (f) use the Software to develop a competing product, or to train, fine-tune,
+       or evaluate any machine-learning model;
+   (g) use the Software in any unlawful manner or in violation of any applicable
+       law or regulation.
+
+
+5. RESERVATION OF RIGHTS AND OWNERSHIP
+
+   The Software is licensed, not sold. KVRNL and its licensors retain all right,
+   title, and interest in and to the Software, including all intellectual
+   property rights. All rights not expressly granted in Section 2 are reserved.
+
+   The names "KVRNL" and "Immersion", the KVRNL logo, and all associated
+   product artwork are trademarks and trade dress of KVRNL. Nothing in this
+   Agreement grants any trademark license.
+
+
+6. UPDATES
+
+   The Software may check for, download, and install updates automatically.
+   Updates are governed by this Agreement unless accompanied by a separate
+   license. KVRNL may modify, suspend, or discontinue the Software or any of its
+   features at any time.
+
+
+7. FEEDBACK
+
+   If you submit ideas, suggestions, or bug reports, you grant KVRNL a
+   perpetual, irrevocable, worldwide, royalty-free license to use them without
+   restriction or obligation to you.
+
+
+8. PRIVACY AND DATA
+
+   To validate your License Key, the Software transmits to KVRNL: the License
+   Key, the product identifier, and a derived hardware identifier (HWID). Your
+   KVRNL account stores the email address you registered with.
+
+   The Software does not collect or transmit your documents, media, keystrokes,
+   browsing activity, or the contents of any file you open with it, except where
+   you explicitly choose to send something (for example, submitting a bug report
+   or using an in-app feature that you configure with your own third-party API
+   key). Full policy: https://kvrnl.io/privacy/
+
+
+9. THIRD-PARTY COMPONENTS
+
+   The Software may bundle third-party components distributed under their own
+   licenses. Those licenses govern those components and, where they conflict
+   with this Agreement, control as to those components only.
+
+
+10. TERM AND TERMINATION
+
+    This Agreement is effective until terminated. It terminates automatically
+    and immediately if you breach any term. KVRNL may additionally revoke any
+    License Key or terminate this Agreement at any time, including for abuse,
+    key sharing, or attempted circumvention. On termination you must cease all
+    use of the Software and remove it from every Device. Sections 4, 5, 7, 10,
+    11, 12, 13, and 14 survive termination.
+
+
+11. DISCLAIMER OF WARRANTY
+
+    THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+    KIND, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO THE
+    IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+    TITLE, ACCURACY, AND NON-INFRINGEMENT. KVRNL DOES NOT WARRANT THAT THE
+    SOFTWARE WILL BE UNINTERRUPTED, ERROR-FREE, OR FREE OF HARMFUL COMPONENTS,
+    OR THAT ANY DEFECT WILL BE CORRECTED. YOU ASSUME THE ENTIRE RISK ARISING OUT
+    OF YOUR USE OF THE SOFTWARE.
+
+    Some jurisdictions do not allow the exclusion of implied warranties, so
+    parts of this Section may not apply to you.
+
+
+12. LIMITATION OF LIABILITY
+
+    TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL KVRNL BE LIABLE
+    FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE
+    DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, USE, GOODWILL, OR OTHER
+    INTANGIBLE LOSSES, ARISING OUT OF OR RELATING TO THE SOFTWARE OR THIS
+    AGREEMENT, ON ANY THEORY OF LIABILITY, EVEN IF ADVISED OF THE POSSIBILITY OF
+    SUCH DAMAGES.
+
+    KVRNL'S TOTAL AGGREGATE LIABILITY ARISING OUT OF OR RELATING TO THIS
+    AGREEMENT SHALL NOT EXCEED FIVE UNITED STATES DOLLARS (USD $5.00). YOU
+    ACKNOWLEDGE THAT THE SOFTWARE IS PROVIDED FREE OF CHARGE AND THAT THIS
+    ALLOCATION OF RISK IS A FUNDAMENTAL BASIS OF THIS AGREEMENT.
+
+    The Software is not designed or licensed for use in hazardous environments
+    or any application where failure could lead to death, personal injury, or
+    severe physical or environmental damage. You are responsible for maintaining
+    your own backups of any data you value.
+
+    Some jurisdictions do not allow the limitation or exclusion of certain
+    damages, so parts of this Section may not apply to you.
+
+
+13. EXPORT AND GOVERNMENT USE
+
+    You may not use or export the Software in violation of United States export
+    laws or any other applicable export control law. The Software is "commercial
+    computer software" as defined at 48 C.F.R. Sec. 2.101; any use by a U.S.
+    Government end user is governed by this Agreement.
+
+
+14. GENERAL
+
+    (a) Governing law. This Agreement is governed by the laws of the United
+        States of America and, to the extent state law applies, the laws of the
+        state in which KVRNL is established, without regard to conflict-of-law
+        rules. The United Nations Convention on Contracts for the International
+        Sale of Goods does not apply.
+    (b) Severability. If any provision is held unenforceable, it shall be
+        modified to the minimum extent necessary to make it enforceable, and the
+        remaining provisions remain in full force.
+    (c) No waiver. A failure to enforce any provision is not a waiver of it.
+    (d) Assignment. You may not assign this Agreement. KVRNL may assign it
+        freely.
+    (e) Entire agreement. This Agreement, together with the KVRNL Terms of
+        Service (https://kvrnl.io/terms/) and Privacy Policy (https://kvrnl.io/privacy/),
+        is the entire agreement between you and KVRNL regarding the Software and
+        supersedes all prior understandings.
+    (f) Changes. KVRNL may revise this Agreement for future versions of the
+        Software. The version distributed with a given release governs that
+        release.
+
+
+15. CONTACT
+
+    KVRNL
+    https://kvrnl.io
+    https://kvrnl.io/contact/
+
+
+--------------------------------------------------------------------------------
+Copyright (c) 2026 KVRNL. All Rights Reserved.
+This is a proprietary, free-to-use license. It is NOT an open-source license.
+--------------------------------------------------------------------------------
