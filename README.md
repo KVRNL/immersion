@@ -71,6 +71,11 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.8** — 2026-09-26
+  - Immersion now shares basic usage info with KVRNL to help fix problems and improve the app: which overlays you use and how long they're live, your Windows version and PC hardware. Nothing about your music, lyrics or stream is ever sent.
+  - You can turn usage info off any time in Settings. A one-time notice explains it the first time you open Immersion after this update.
+  - When usage info is on, problems like audio capture failing are reported automatically, so they get fixed faster.
+
 **v1.0.7** — 2026-09-25
   - New activation screen with clear steps for getting your free key, so it's easy even if you downloaded Immersion from somewhere other than kvrnl.io.
   - Paste button for your key, and Immersion now spots a key you've copied. Extra spaces or odd dashes from copying no longer cause errors.
@@ -103,14 +108,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - Ticker messages are a proper list you can add to, edit, reorder and remove.
   - Adding an overlay is a picker with a description and OBS size for each type; removing one asks first.
   - A quick three-step guide appears on first use, and the activation window got the same fresh look.
-
-**v1.0.3** — 2026-09-05
-  - Fixed the app closing itself right after activating a license key on a fresh install.
-  - Fixed countdown timers breaking the control panel.
-  - Update downloads are now shown in Settings, with a Restart button once they're ready.
-  - Goal bar now shows correctly on older OBS versions.
-  - Ticker no longer jumps when you tweak its settings.
-  - More accurate synced-lyrics matching.
 
 Full history → **[kvrnl.io/changelog/immersion](https://kvrnl.io/changelog/immersion/)**
 
