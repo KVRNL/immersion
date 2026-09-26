@@ -71,6 +71,14 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.0.7** — 2026-09-25
+  - New activation screen with clear steps for getting your free key, so it's easy even if you downloaded Immersion from somewhere other than kvrnl.io.
+  - Paste button for your key, and Immersion now spots a key you've copied. Extra spaces or odd dashes from copying no longer cause errors.
+  - When a key can't be activated, you get a clear explanation and a one-click link to fix it, like releasing your key from another PC.
+  - Immersion stays fully locked until it's activated. If a key is released while the app is open, overlays and hotkeys pause until you activate again.
+  - If KVRNL's activation service briefly has trouble, an already-activated PC keeps working instead of asking for the key again.
+  - Activation now works on networks that use a proxy.
+
 **v1.0.6** — 2026-09-06
   - Visualizer overhaul: bars now cover the whole musical range evenly (the bass end used to be a block of identical bars and the top end sat flat), move smoothly instead of flickering, and the glow is far lighter on your PC so it stays at 60 fps in OBS. Wave style is now a smooth curve.
   - 'Pulse to the beat' actually pulses now: beat detection picks up kicks much more reliably, and the timer and counter bounce is bigger and easier to see.
@@ -103,10 +111,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - Goal bar now shows correctly on older OBS versions.
   - Ticker no longer jumps when you tweak its settings.
   - More accurate synced-lyrics matching.
-
-**v1.0.2** — 2026-08-18
-  - Downloads and automatic updates now come straight from KVRNL's own servers instead of a third-party host. Updates are quicker and more reliable, and nothing inside the app itself has changed.
-  - If you installed this app before today, please download it once more from kvrnl.io. Older copies still look for updates at the old location and can't carry themselves across the move — this one time has to be done by hand.
 
 Full history → **[kvrnl.io/changelog/immersion](https://kvrnl.io/changelog/immersion/)**
 
